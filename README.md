@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
-I’m currently working on back-end basic python and VBA
-I’m currently learning Python and Data Science
+I’m currently working on back-end Javascript, VBA and general Programming Algorithm.
+And also learning Python and Data Science
 ##
 <div>
   <a href="https://github.com/joadson-araujo">
